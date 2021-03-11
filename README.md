@@ -6,6 +6,7 @@
 Hi, I am MarioGogogo. And I go by Wall-E😃.
 
 A web developer from China.
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MarioGogogo&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 👯 About me
@@ -24,7 +25,9 @@ Front-end Engineer, based in Hangzhou, at XR WEB Coder.
 <code><a href="javascript:;" target="_blank"><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></a></code>
 
 **🎯 Learing and Looking forward to learn:**
-### LeetCode and FE-Interview
+
+TODO：LeetCode and FE-Interview
+
 <code><a href="javascript:;" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg"></a></code>
 <code><a href="javascript:;" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg"></a></code>
 
