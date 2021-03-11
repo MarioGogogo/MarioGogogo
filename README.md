@@ -30,8 +30,8 @@ Front-end Engineer, based in Hangzhou, at XR WEB Coder.
 
 TODO：LeetCode and FE-Interview
 
-<code><a href="javascript:;" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg"></a></code>
-<code><a href="javascript:;" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg"></a></code>
+<code><a href="javascript:;" target="_blank"><img height="50" src="https://cdn.svgporn.com/logos/typescript-icon.svg"></a></code>
+<code><a href="javascript:;" target="_blank"><img height="50" src="https://cdn.svgporn.com/logos/swift.svg"></a></code>
 
 <!-- **📫  Reach me at:** -->
 
