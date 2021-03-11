@@ -9,7 +9,7 @@ A web developer from China.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MarioGogogo&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-## 👯 About me
+## 🎖 🧑🏼‍💻 About me
 
 **💼 Currently working as:**
 
